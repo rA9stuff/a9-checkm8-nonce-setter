@@ -3,7 +3,9 @@ boots patched iBoot then sets apnonce on s8000/s8003
 
 # Compatibility 
 
-Works on iPhone 6s/6s Plus and SE (2016)
+Works on iPhone 6s/6s Plus and SE (2016). 
+
+macOS version 10.13+ is needed. 
 
 # Usage
 
