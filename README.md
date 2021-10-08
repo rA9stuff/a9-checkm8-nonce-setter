@@ -18,3 +18,5 @@ Depends on [libirecovery project](https://github.com/libimobiledevice/libirecove
 # Credits
 
 [libimobiledevice](https://github.com/libimobiledevice) for [libirecovery](https://github.com/libimobiledevice/libirecovery)
+
+[0x7ff](https://github.com/0x7ff) for [eclipsa](https://github.com/0x7ff/eclipsa)
